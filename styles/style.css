@@ -22,13 +22,13 @@ header {
   position: relative;
 }
 
-.logo {
-  font-weight: bold;
-  font-size: 1.4rem;
-}
 
-.logo-dot{
-  color: #242635;
+/* Logo */
+.logo {
+  font-size: 24px;                  /* Typography size */
+  font-weight: 700;                 /* Regular */
+  line-height: 36px;                /* Height as per spec */
+  letter-spacing: 0;                /* Matches Figma */
 }
 
 
