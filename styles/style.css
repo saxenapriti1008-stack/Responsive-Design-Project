@@ -25,10 +25,10 @@ header {
 
 /* Logo */
 .logo {
-  font-size: 24px;                  /* Typography size */
-  font-weight: 700;                 /* Regular */
-  line-height: 36px;                /* Height as per spec */
-  letter-spacing: 0;                /* Matches Figma */
+  font-size: 24px;                  
+  font-weight: 700;                 
+  line-height: 36px;                
+  letter-spacing: 0;            
 }
 
 
